@@ -1,4 +1,4 @@
-# -ROS-Project-Repository-
+# ROS-Project-Repository
 Welcome to the ROS Project Repository! This repository contains all the necessary files, scripts, and documentation for our Robotic Operating System (ROS) project.
 
 # Autonomous Mobile Robot Project
@@ -32,7 +32,7 @@ Arduino IDE: Used for programming the Arduino board and interfacing with sensors
 ## Getting Started
 
 1. Install ROS on your system (e.g., ROS Melodic or ROS Noetic).
-2. Clone this repository to your workspace: `git clone https://github.com/your-username/autonomous-mobile-robot.git`
+2. Clone this repository to your workspace: `git clone https://github.com/amarsingh-11/autonomous-mobile-robot.git`
 3. Build the ROS packages: `catkin_make`
 4. Source the setup script: `source devel/setup.bash`
 5. Connect the hardware components (Jetson Nano, Arduino, sensors) to your system.
